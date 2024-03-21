@@ -4,7 +4,7 @@ repository for my Intelligence and Machine Learning lab session
 
 1.[lab-01](https://github.com/Jillakirthan/AIML/blob/main/AIML-Lab-1.ipynb)
 
-2.[lab-02]()
+2.[lab-02](https://github.com/Jillakirthan/AIML/blob/main/AIML-Lab02.ipynb)
 
 3.[lab-03]()
 
