@@ -12,7 +12,7 @@ repository for my Intelligence and Machine Learning lab session
 
 5.[lab-05](https://github.com/Jillakirthan/AIML/blob/main/AIML-Lab05.ipynb)
 
-6.[lab-06]()
+6.[lab-06](https://github.com/Jillakirthan/AIML/blob/main/AIML-Lab6.ipynb)
 
 7.[lab-07]()
 
