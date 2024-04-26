@@ -20,7 +20,7 @@ repository for my Intelligence and Machine Learning lab session
 
 [lab-09][https://github.com/Jillakirthan/AIML/blob/main/AIML_Lab09.ipynb]
 
-[lab-10][]
+[lab-10][https://github.com/Jillakirthan/AIML/blob/main/AIML_Lab10.ipynb]
 
 
 
