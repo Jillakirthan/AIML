@@ -26,7 +26,7 @@ repository for my Intelligence and Machine Learning lab session
 
 
 # AIML_PROJECT
-[PROJECT][]
+[PROJECT][https://github.com/Jillakirthan/AIML/blob/main/2203A52151_Project_group-06.pdf]
 
 
 
