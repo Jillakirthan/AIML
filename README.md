@@ -23,6 +23,9 @@ repository for my Intelligence and Machine Learning lab session
 [lab-10][https://github.com/Jillakirthan/AIML/blob/main/AIML_Lab10.ipynb]
 
 
+#AIML_PROJECT
+[PROJECT][]
+
 
 
 
