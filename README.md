@@ -25,7 +25,7 @@ repository for my Intelligence and Machine Learning lab session
 
 
 
-#AIML_PROJECT
+# AIML_PROJECT
 [PROJECT][]
 
 
